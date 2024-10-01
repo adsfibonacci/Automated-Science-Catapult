@@ -35,7 +35,7 @@ else:
     pass
 
 print("Round: 2")
-for i in range(3, 13):
+for i in range(3, 14):
     recent = float(input())
     distances.append(recent)
 
