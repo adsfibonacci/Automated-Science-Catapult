@@ -1,9 +1,0 @@
-#+title: Round 1
-#+setupfile: ~/.emacs.d/latex.org
-
-#+begin_src python
-distances = []
-recent = 0
-for i in range(13):
-    recent = int(input())
-#+end_src
